@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahmoodsamiee
-- 👀 I’m interested in learning about ML/DL/AI
+- 👀 I’m interested in learning about Quantum computing, ML/DL/AI
 - 🌱 I’m currently learning nothing in particular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
